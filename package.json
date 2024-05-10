@@ -1,16 +1,6 @@
 {
   "dependencies": {
-    "@bishal-9/youtube-to-mp3": "^1.0.0",
-    "axios": "^1.6.8",
-    "eslint": "^9.2.0",
-    "fb-video-downloader": "^1.0.3",
-    "ffmpeg": "^0.0.4",
-    "fs": "^0.0.1-security",
-    "nayan-media-downloader": "^2.2.0",
-    "prettier": "^3.2.5",
-    "qr-image": "^3.2.0",
-    "youtube-mp3-downloader": "^0.7.11",
-    "yt-search": "^2.10.4",
-    "ytdl": "^1.4.1"
+    "@whiskeysockets/baileys": "^6.7.2",
+    "qrcode-terminal": "^0.12.0"
   }
 }
